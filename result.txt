@@ -1,0 +1,37 @@
+35
+call_1	0H-0M-0S-40us
+call_2	0H-0M-0S-38us
+call_3	answer False
+fft0	0H-0M-23S-774841us
+fft1	0H-0M-50S-34885us
+fft2	0H-0M-48S-523944us
+gameoflife-gosper	0H-0M-53S-296056us
+gameoflife-oscillator	0H-0M-46S-54397us
+gameoflife-p61glidergun	0H-0M-45S-895673us
+if-combine1	0H-0M-0S-458530us
+if-combine2	0H-0M-0S-687689us
+if-combine3	0H-0M-1S-146071us
+large_loop_array_1	0H-0M-7S-722373us
+large_loop_array_2	0H-0M-15S-439688us
+large_loop_array_3	0H-0M-7S-319793us
+matmul1	0H-0M-38S-327975us
+matmul2	0H-0M-38S-308941us
+matmul3	0H-0M-38S-384830us
+mm1	0H-0M-10S-45459us
+mm2	0H-0M-8S-956111us
+mm3	0H-0M-6S-742364us
+shuffle0	0H-0M-10S-456818us
+shuffle1	0H-0M-18S-733083us
+shuffle2	0H-0M-7S-845495us
+sl1	0H-0M-17S-743349us
+sl2	0H-0M-5S-771131us
+sl3	0H-0M-2S-635682us
+sort1	0H-0M-4S-892475us
+sort2	0H-2M-27S-472214us
+sort3	0H-0M-20S-360529us
+spmv1	0H-0M-12S-55144us
+spmv2	0H-0M-7S-48964us
+spmv3	0H-0M-5S-399478us
+transpose0	0H-0M-10S-67872us
+transpose1	0H-0M-14S-118871us
+transpose2	0H-0M-22S-44960us
